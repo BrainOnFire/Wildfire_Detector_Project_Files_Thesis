@@ -1,0 +1,6 @@
+C:/Users/lucia/Documents/STM32Cube_Projects/Nodo_Sensor_Tesis/stm32-hal-rfm95/Scr/rfm95.c:66:6:rfm95_read_register	32	static
+C:/Users/lucia/Documents/STM32Cube_Projects/Nodo_Sensor_Tesis/stm32-hal-rfm95/Scr/rfm95.c:85:6:rfm95_write_register	24	static
+C:/Users/lucia/Documents/STM32Cube_Projects/Nodo_Sensor_Tesis/stm32-hal-rfm95/Scr/rfm95.c:100:6:rfm95_init	48	static
+C:/Users/lucia/Documents/STM32Cube_Projects/Nodo_Sensor_Tesis/stm32-hal-rfm95/Scr/rfm95.c:160:6:rfm95_reset	16	static
+C:/Users/lucia/Documents/STM32Cube_Projects/Nodo_Sensor_Tesis/stm32-hal-rfm95/Scr/rfm95.c:168:6:rfm95_set_power	24	static
+C:/Users/lucia/Documents/STM32Cube_Projects/Nodo_Sensor_Tesis/stm32-hal-rfm95/Scr/rfm95.c:194:6:rfm95_send_package	32	static
