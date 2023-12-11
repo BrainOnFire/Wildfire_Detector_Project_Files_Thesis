@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMG6402LVT-7
+D MOSFET 30V N-Ch 30mOhm 10V VGS 30V 6A
+K
+F https://www.diodes.com/assets/Datasheets/DMG6402LVT.pdf
+$ENDCMP
+#
+#End Doc Library

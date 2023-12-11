@@ -1,0 +1,10 @@
+../Core/Src/main.c:89:5:main	24	static
+../Core/Src/main.c:170:6:SystemClock_Config	72	static
+../Core/Src/main.c:210:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:248:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:281:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:320:6:umbral_temperatura	16	static
+../Core/Src/main.c:340:6:umbral_humedad	16	static
+../Core/Src/main.c:358:6:umbral_monoxido	16	static
+../Core/Src/main.c:376:6:contador_update	8	static
+../Core/Src/main.c:401:6:Error_Handler	4	static,ignoring_inline_asm

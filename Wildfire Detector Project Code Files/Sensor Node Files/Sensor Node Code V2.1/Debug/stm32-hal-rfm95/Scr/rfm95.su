@@ -1,0 +1,5 @@
+../stm32-hal-rfm95/Scr/rfm95.c:82:6:rfm95_read_register	32	static
+../stm32-hal-rfm95/Scr/rfm95.c:101:6:rfm95_write_register	24	static
+../stm32-hal-rfm95/Scr/rfm95.c:116:6:rfm95_init	48	static
+../stm32-hal-rfm95/Scr/rfm95.c:196:6:rfm95_reset	16	static
+../stm32-hal-rfm95/Scr/rfm95.c:231:6:rfm95_send_package	32	static

@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP AZ1117CR2-3.3TRG1
+D Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-89-3
+K
+F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
+$ENDCMP
+#
+$CMP AZ1117CR-5.0TRG1
+D LDO Voltage Regulators LDO BJT HiCurr SOT89 0.8A 1.4V 70dB
+K
+F https://www.diodes.com/assets/Datasheets/AZ1117C.pdf
+$ENDCMP
+#
+$CMP 2N7002KDW_R1_00001
+D MOSFET /K27/TR/7"/HF/3K/SOT-363/MOS/SOT/NFET-035TS/NF035T-QI17/PJ///
+K
+F 
+$ENDCMP
+#
+#End Doc Library

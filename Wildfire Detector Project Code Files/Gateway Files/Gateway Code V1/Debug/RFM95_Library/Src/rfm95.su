@@ -1,0 +1,5 @@
+../RFM95_Library/Src/rfm95.c:87:6:rfm95_read_register	32	static
+../RFM95_Library/Src/rfm95.c:106:6:rfm95_write_register	24	static
+../RFM95_Library/Src/rfm95.c:121:6:rfm95_init	48	static
+../RFM95_Library/Src/rfm95.c:210:6:rfm95_reset	16	static
+../RFM95_Library/Src/rfm95.c:248:6:rfm95_receive_package	40	static

@@ -1,0 +1,5 @@
+../stm32-hal-sht3x-master/Scr/sht3x.c:21:16:calculate_crc	32	static
+../stm32-hal-sht3x-master/Scr/sht3x.c:37:13:sht3x_send_command	32	static
+../stm32-hal-sht3x-master/Scr/sht3x.c:56:6:sht3x_init	40	static
+../stm32-hal-sht3x-master/Scr/sht3x.c:76:6:sht3x_read_temperature_and_humidity	48	static
+../stm32-hal-sht3x-master/Scr/sht3x.c:107:6:sht3x_set_heater_enable	16	static

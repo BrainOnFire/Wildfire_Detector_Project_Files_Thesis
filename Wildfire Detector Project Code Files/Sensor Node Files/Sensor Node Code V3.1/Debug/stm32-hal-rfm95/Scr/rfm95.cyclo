@@ -1,0 +1,5 @@
+rfm95.c:82:6:rfm95_read_register	3
+rfm95.c:101:6:rfm95_write_register	2
+rfm95.c:116:6:rfm95_init	15
+rfm95.c:196:6:rfm95_reset	1
+rfm95.c:231:6:rfm95_send_package	12

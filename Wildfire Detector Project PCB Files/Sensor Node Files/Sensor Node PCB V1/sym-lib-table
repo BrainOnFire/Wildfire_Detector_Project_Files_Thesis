@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "2N2222A Transistor")(type "Legacy")(uri "${KIPRJMOD}/Libraries/2N2222A.pretty/2N2222A.lib")(options "")(descr "Liberia del transistor 2N2222A"))
+  (lib (name "DMG6402LVT MOSFET")(type "Legacy")(uri "${KIPRJMOD}/Libraries/DMG6407LVT.pretty/DMG6402LVT-7.lib")(options "")(descr ""))
+  (lib (name "AZ1117 Voltage Regulator")(type "Legacy")(uri "${KIPRJMOD}/Libraries/SamacSys_Parts.lib")(options "")(descr "")(disabled))
+  (lib (name "AZ1117EH-3.3TRG1 Voltage Regulator")(type "Legacy")(uri "${KIPRJMOD}/Libraries/AZ1117EH-3.3TRG1.pretty/AZ1117EH-3.3TRG1.lib")(options "")(descr ""))
+  (lib (name "AZ1117EH-5.0TRG1 Voltage Regulator")(type "Legacy")(uri "${KIPRJMOD}/Libraries/AZ1117EH-5.0TRG1.pretty/AZ1117EH-5.0TRG1.lib")(options "")(descr ""))
+)

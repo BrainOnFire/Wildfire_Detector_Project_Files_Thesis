@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# AZ1117EH-5.0TRG1
+#
+DEF AZ1117EH-5.0TRG1 U 0 40 Y Y 1 L N
+F0 "U" -300 200 50 H V L BNN
+F1 "AZ1117EH-5.0TRG1" -300 -300 50 H V L BNN
+F2 "SOT230P700X180-4N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Diodes Inc." 0 0 50 H I L BNN "MF"
+F5 "None" 0 0 50 H I L BNN "PRICE"
+F6 "https://snapeda.com/shop?store=Mouser&id=482930" 0 0 50 H I L BNN "MOUSER-PURCHASE-URL"
+F7 "Linear Voltage Regulator IC 1 Output 1A SOT-223" 0 0 50 H I L BNN "DESCRIPTION"
+F8 "Good" 0 0 50 H I L BNN "AVAILABILITY"
+F9 "SOT-223 Diodes Inc." 0 0 50 H I L BNN "PACKAGE"
+F10 "https://snapeda.com/shop?store=DigiKey&id=482930" 0 0 50 H I L BNN "DIGIKEY-PURCHASE-URL"
+F11 "AZ1117EH-5.0TRG1" 0 0 50 H I L BNN "MP"
+F12 "https://snapeda.com/shop?store=Arrow+Electronics&id=482930" 0 0 50 H I L BNN "ARROW_ELECTRONICS-PURCHASE-URL"
+DRAW
+S -300 -200 300 200 0 0 6 f
+X IN 3 -400 100 100 R 40 40 0 0 I 
+X ADJ/GND 1 400 -100 100 L 40 40 0 0 W 
+X OUT 2 400 100 100 L 40 40 0 0 O 
+X OUT 4 400 100 100 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library
